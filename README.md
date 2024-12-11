@@ -1,4 +1,4 @@
-# Intersectionality in hiring discrimination: The case of sex and nonbinary gender identities in a range of low skill occupations
+# How does sex-based occupational discrimination affect nonbinary applicants? Evidence from a correspondence experiment
 
 This repository stores current files associated with  the above forthcoming paper by Taryn Eames, a PhD Candidate in economics at U of T.
 
