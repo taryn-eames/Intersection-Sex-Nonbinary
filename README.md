@@ -1,4 +1,4 @@
-# How does sex-based occupational discrimination affect nonbinary applicants? Evidence from a correspondence experiment
+# How does the intersection of sex and nonbinary gender identity affect hiring discrimination? Evidence from a correspondence field experiment
 
 This repository stores current files associated with  the above forthcoming paper by Taryn Eames, a PhD Candidate in economics at U of T.
 
